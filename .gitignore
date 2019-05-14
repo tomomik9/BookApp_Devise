@@ -29,3 +29,13 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Ignore empty test and fixtures
+/test/models/user_test.rb
+/test/fixtures/users.yml
+
+# Ignore following images
+/public/uploads/book/picture/
+/public/uploads/book/picture/28/mathematics_girl.jpeg
+/public/uploads/book/picture/29/shibainu.jpg
+

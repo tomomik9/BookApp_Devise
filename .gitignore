@@ -35,6 +35,8 @@
 /test/fixtures/
 
 # Ignore following images
+/public/uploads/book/picture/**/*.jpeg
+/public/uploads/book/picture/**/*.jpg
 /public/uploads/book/picture/28/mathematics_girl.jpeg
 /public/uploads/book/picture/29/shibainu.jpg
 

@@ -31,8 +31,8 @@
 /config/master.key
 
 # Ignore empty test and fixtures
-/test/models/
-/test/fixtures/
+/test/models/user_test.rb
+/test/fixtures/users.yml
 
 # Ignore uploaded images
-/public/uploads/book/picture/**/**g
+/public/uploads/book/picture/**/**
